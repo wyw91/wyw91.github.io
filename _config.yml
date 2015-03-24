@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            wyw91
+description:      Code to save the world
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:          YuWei Weng 
+  avatar:         github-avatar.jpg
+  bio:            "魔都码农，混口饭吃"
+  email:          575004655@qq.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         wyw91
   stackexchange:  
   linkedin:       
   instagram:      
@@ -26,7 +26,7 @@ owner:
   google_plus:    +yourid
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 highlighter: pygments
 markdown:    kramdown
